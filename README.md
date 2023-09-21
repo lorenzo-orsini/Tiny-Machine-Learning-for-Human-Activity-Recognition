@@ -33,4 +33,4 @@ CNN models, with the applied feature selection and post-training
 quantization, achieve competitive accuracy in HAR tasks. We
 observed that the models strike a balance between complexity
 and accuracy, considering the limitations of resource-constrained
-environments
+environments.
